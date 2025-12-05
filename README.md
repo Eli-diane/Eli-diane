@@ -62,7 +62,7 @@ Aqui estão alguns projetos onde apliquei conceitos avançados de desenvolviment
 
 <div align="center">
   <a href="https://github.com/eli-diane">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eli-diane&show_icons=true&title_color=ff69b4&text_color=5c5c5c&icon_color=ffb6c1&bg_color=fff0f5&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eli-diane&show_icons=true&title_color=ff69b4&text_color=5c5c5c&icon_color=ffb6c1&bg_color=fff0f5&hide_border=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli-diane&layout=compact&title_color=ff69b4&text_color=5c5c5c&icon_color=ffb6c1&bg_color=fff0f5&hide_border=true"/>
   </a>
 </div>
