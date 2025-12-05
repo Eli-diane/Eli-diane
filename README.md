@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDN4eWkxeHJ5ZnF5aXJ5cXF5eWkxeHJ5ZnF5aXJ5cXF5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OqFv8qfHh5sYhQJgJg/giphy.gif" width="120" alt="Hello GIF cute icon" />
-  <h1 style="color: #ff69b4;">Olá, eu sou a Elidiane!... Eli para os próximos 💖</h1>
+  <h1 style="color: #ff69b4;">Oie, sou Elidiane!... Eli para os próximos! 💖</h1>
 </div>
 
 <p align="center">
@@ -61,21 +61,21 @@ Aqui estão alguns projetos onde apliquei conceitos avançados de desenvolviment
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <a href="https://github.com/Eli-diane">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Eli-diane&show_icons=true&title_color=ff69b4&text_color=5c5c5c&icon_color=ffb6c1&bg_color=fff0f5&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eli-diane&layout=compact&title_color=ff69b4&text_color=5c5c5c&icon_color=ffb6c1&bg_color=fff0f5&hide_border=true"/>
+  <a href="https://github.com/eli-diane">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eli-diane&show_icons=true&title_color=ff69b4&text_color=5c5c5c&icon_color=ffb6c1&bg_color=fff0f5&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli-diane&layout=compact&title_color=ff69b4&text_color=5c5c5c&icon_color=ffb6c1&bg_color=fff0f5&hide_border=true"/>
   </a>
 </div>
 
 ### 🐍 Minhas contribuições
 <div align="center">
-  <img src="https://github.com/Eli-diane/Eli-diane/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/eli-diane/eli-diane/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="www.linkedin.com/in/elidiane-santos" target="_blank">
+  <a href="https://www.linkedin.com/in/elidiane-santos" target="_blank">
     <img src="https://img.shields.io/badge/Conecte%20se%20comigo-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge Pink" />
   </a>
   <a href="mailto:elidiane.ess@gmail.com">
