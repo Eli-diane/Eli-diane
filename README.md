@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDN4eWkxeHJ5ZnF5aXJ5cXF5eWkxeHJ5ZnF5aXJ5cXF5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OqFv8qfHh5sYhQJgJg/giphy.gif" width="120" alt="Hello GIF cute icon" />
-  <h1 style="color: #ff69b4;">Oie, sou Elidiane!... Eli para os próximos! 💖</h1>
+  <img src="https://media.tenor.com/MCL6W0bVeS8AAAAi/hello-kitty-wave.gif" width="120" alt="Hello Kitty Waving" />
+  <h1 style="color: #ff69b4;">Oie, Elidiane, prazer! Eli para os próximos... 💖</h1>
 </div>
 
 <p align="center">
@@ -8,7 +8,7 @@
   <br>
   Sou formada em Secretariado Executivo com 12 anos de experiência e trago minha organização e "jogo de cintura" para o mundo da tecnologia.
   <br>
-  🎓 Estudante de <b>Defesa Cibernética</b> na UNIFBV Wyden.
+  🎓 Estudante de <b>Defesa Cibernética</b> na UNIFBV Wyden & Integrante <b>PretaLab</b>.
 </p>
 
 <div align="center">
@@ -56,15 +56,6 @@ Aqui estão alguns projetos onde apliquei conceitos avançados de desenvolviment
 
 <div align="center">
 🌸✨🌸✨🌸✨🌸✨🌸
-</div>
-
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <a href="https://github.com/eli-diane">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eli-diane&show_icons=true&title_color=ff69b4&text_color=5c5c5c&icon_color=ffb6c1&bg_color=fff0f5&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli-diane&layout=compact&title_color=ff69b4&text_color=5c5c5c&icon_color=ffb6c1&bg_color=fff0f5&hide_border=true"/>
-  </a>
 </div>
 
 ### 🐍 Minhas contribuições
