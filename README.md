@@ -36,19 +36,28 @@
 
 Aqui estão alguns projetos onde apliquei conceitos avançados de desenvolvimento e segurança:
 
-#### 🔐 1. Sistema de Diagnóstico Termográfico (Em andamento)
+####🎸 **1. Studio Sound Lab (Engenharia de Áudio com IA)**
+*Aplicação web Fullstack desenvolvida para músicos, utilizando Inteligência Artificial para separar instrumentos de arquivos MP3 (stems).*
+
+* **Integração com IA:** Implementação do modelo de Deep Learning Demucs (Meta) e orquestração do FFmpeg no backend via subprocess do SO.
+
+* **Frontend Interativo:** Desenvolvimento de um Mixer Multi-track com controle de volume independente, manipulação de velocidade (Time Stretch) sem distorção de pitch, e sistema de Loop A-B usando JavaScript Vanilla.
+
+* **Tecnologias:** Python, Django, JavaScript, FFmpeg, IA/Deep Learning.
+
+#### 🔐 2. Sistema de Diagnóstico Termográfico (Em andamento)
 *Projeto Integrador focado em conformidade com a **ANVISA (RDC 330/2019)**.*
 * **O que fiz:** Implementação de Logs de Auditoria imutáveis, Criptografia AES para dados sensíveis e Comunicação segura com IA (WEKA).
 * **Tech:** Python, Django, Hashicorp Vault, Security First.
 
-#### 🛡️ 2. Front-end Seguro (Consulta de Cães)
+#### 🛡️ 3. Front-end Seguro (Consulta de Cães)
 *Aplicação web integrada com API externa, focada em segurança defensiva.*
 * **Destaques Técnicos:**
     * Prevenção contra **XSS (Cross-Site Scripting)** usando Sanitização de Inputs.
     * Configuração de **CSP (Content Security Policy)** robusta.
     * Gerenciamento seguro de chaves de API (evitando exposição no front).
 
-#### 🏗️ 3. Sistema de Gestão de Eventos (Backend)
+#### 🏗️ 4. Sistema de Gestão de Eventos (Backend)
 *Sistema completo com persistência de dados em SQLite.*
 * **Arquitetura:** Desenvolvido em **Camadas** (Dominio, Infra, Repositório) para garantir código limpo.
 * **POO:** Uso intenso de Herança, Polimorfismo e Encapsulamento.
