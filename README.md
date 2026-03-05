@@ -36,7 +36,7 @@
 
 Aqui estão alguns projetos onde apliquei conceitos avançados de desenvolvimento e segurança:
 
-####🎸 **1. Studio Sound Lab (Engenharia de Áudio com IA)**
+#### 🎸 **1. Studio Sound Lab (Engenharia de Áudio com IA)**
 *Aplicação web Fullstack desenvolvida para músicos, utilizando Inteligência Artificial para separar instrumentos de arquivos MP3 (stems).*
 
 * **Integração com IA:** Implementação do modelo de Deep Learning Demucs (Meta) e orquestração do FFmpeg no backend via subprocess do SO.
