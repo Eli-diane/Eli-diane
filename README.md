@@ -8,7 +8,7 @@
   <br>
   Sou formada em Secretariado Executivo com 12 anos de experiência e trago minha organização e "jogo de cintura" para o mundo da tecnologia.
   <br>
-  🎓 Estudante de <b>Defesa Cibernética</b> na UNIFBV Wyden.
+  🎓 Estudante de <b>Defesa Cibernética</b> na UNIFBV Wyden e <b>ADS - Análise e Desenvolvimentos de Sistemas</b> na UNIFATECIE.
 </p>
 
 <div align="center">
