@@ -4,11 +4,15 @@
 </div>
 
 <p align="center">
-  <b>Do Caos ao Código 🧩 | Desenvolvedora em Transição de Carreira | Mãe de 2 👩‍👦‍👦 | 35 anos</b>
+  <b>DevSecOps Engineer | Python Backend Developer | Cibersegurança</b>
   <br>
-  Sou ex-secretária executiva com 12 anos de experiência em rotinas administrativas e trago minha organização, resiliência e "jogo de cintura" para o mundo da tecnologia, Cloud Computing e Cibersegurança.
+  <b><i>Do Caos ao Código 🧩 | Mãe de 2 👩‍👦‍👦 | 35 anos</i></b>
   <br><br>
-  🎓 Estudante de <b>Defesa Cibernética</b> na UNIFBV Wyden e <b>Análise e Desenvolvimento de Sistemas</b> na UNIFATECIE.
+  Desenvolvedora especializada na construção de aplicações resilientes, automação de infraestrutura e segurança da informação sob a filosofia <i>Security First</i>.
+  <br>
+  Uno mais de 12 anos de maturidade executiva em gestão de crises e processos a entregas práticas em Cloud, Backend e AppSec.
+  <br><br>
+  🎓 Estudante de <b>Defesa Cibernética</b> (UNIFBV Wyden) e <b>Análise e Desenvolvimento de Sistemas</b> (UNIFATECIE).
 </p>
 
 <div align="center">
