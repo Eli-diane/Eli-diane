@@ -38,11 +38,11 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 Aqui estão os principais projetos onde apliquei conceitos avançados de Cloud, Desenvolvimento Backend e Segurança:
 
-#### ☁️ 1. API de Pedidos — Magalu Cloud & Kubernetes (`projeto-cloud`)
+#### 1. API de Pedidos — Magalu Cloud & Kubernetes (`projeto-cloud`)
 *API REST de micro e-commerce para gestão de pedidos, desenvolvida em Python com FastAPI, containerizada via Docker e implantada em cluster Kubernetes (K3s) na Magalu Cloud.*
 
 * **Infraestrutura & Deploy:** Provisionamento em VPC com sub-redes na Magalu Cloud e pipeline CI/CD automatizado via GitHub Actions.
@@ -50,7 +50,7 @@ Aqui estão os principais projetos onde apliquei conceitos avançados de Cloud, 
 * **Observabilidade & Arquitetura:** Coleta de métricas via Prometheus + Grafana (Helm); documentação de arquitetura no modelo C2 e ADRs com Mermaid.
 * 🔗 **[Acessar Repositório do Projeto Cloud](https://github.com/Eli-diane/projeto-cloud)**
 
-#### 🏥 2. SAD — Sistema de Apoio ao Diagnóstico Termográfico (Residência Concluída)
+#### 2. SAD — Sistema de Apoio ao Diagnóstico Termográfico (Residência Concluída)
 *Software de apoio ao diagnóstico médico desenvolvido durante a Residência Tecnológica, projetado sob a filosofia **Security First** e em conformidade regulatória para ambientes de saúde.*
 
 * **Trilha de Auditoria (Audit Log):** Implementação de log de auditoria imutável no backend ("vigia silencioso") para rastreabilidade completa de acessos, modificações de dados sensíveis e auditoria de ações de usuários.
@@ -59,19 +59,19 @@ Aqui estão os principais projetos onde apliquei conceitos avançados de Cloud, 
 * **Conformidade Regulatória:** Arquitetura orientada à LGPD e diretrizes da ANVISA (RDC 330/2019).
 * **Tech:** Python, Django, Hashicorp Vault, PostgreSQL, Security First Architecture.
 
-#### 🎸 3. Studio Sound Lab (Engenharia de Áudio com IA)
+#### 3. Studio Sound Lab (Engenharia de Áudio com IA)
 *Aplicação web Fullstack desenvolvida para музыкан visualização e isolamento de áudio, utilizando Inteligência Artificial para separar instrumentos de arquivos MP3 (stems).*
 * **Integração com IA:** Implementação do modelo de Deep Learning Demucs (Meta) e orquestração do FFmpeg no backend.
 * **Frontend Interativo:** Mixer Multi-track com controle de volume independente, manipulação de velocidade (Time Stretch) sem distorção e sistema de Loop A-B.
 * **Tech:** Python, Django, JavaScript, FFmpeg, IA/Deep Learning.
 
-#### 🛡️ 4. Front-end Seguro (Consulta de Cães)
+#### 4. Front-end Seguro (Consulta de Cães)
 *Aplicação web integrada com API externa, focada em segurança defensiva.*
 * **Destaques Técnicos:** Prevenção contra **XSS (Cross-Site Scripting)** via sanitização de inputs, configuração de **CSP (Content Security Policy)** robusta e gerenciamento seguro de chaves de API.
 
 ---
 
-### 📦 O que já entreguei
+### O que já entreguei
 - [x] Deploy automatizado de API em cluster Kubernetes (K3s) na Magalu Cloud via GitHub Actions
 - [x] Cluster K3s com resiliência, auto-recuperação e observabilidade (Prometheus + Grafana)
 - [x] Arquitetura de software de saúde com criptografia, rastreabilidade e logs de auditoria (Residência SAD)
