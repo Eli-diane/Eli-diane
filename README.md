@@ -12,7 +12,7 @@
   <br>
   Uno mais de 12 anos de maturidade executiva em gestão de crises e processos a entregas práticas em Cloud, Backend e AppSec.
   <br><br>
-  🎓 Estudante de <b>Defesa Cibernética</b> (UNIFBV Wyden) e <b>Análise e Desenvolvimento de Sistemas</b> (UNIFATECIE).
+  🎓 Estudante de <b>Ciência da Computação</b> (UNIFBV Wyden).
 </p>
 
 <div align="center">
