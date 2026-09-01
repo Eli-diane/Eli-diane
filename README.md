@@ -49,10 +49,10 @@ Aqui estão os principais projetos onde apliquei conceitos avançados de Cloud, 
 #### 1. [API de Pedidos — Magalu Cloud & Kubernetes (`projeto-cloud`)](https://github.com/Eli-diane/projeto-cloud)
 API REST em Python (FastAPI) para micro e-commerce, containerizada com Docker e implantada em cluster K3s na Magalu Cloud com pipeline CI/CD no GitHub Actions, Prometheus + Grafana e PostgreSQL (DBaaS).
 
-#### 2. [SAD — Sistema de Apoio ao Diagnóstico Termográfico](https://github.com/limaamorim/ProjetoIntegradorBackend))
+#### 2. [SAD — Sistema de Apoio ao Diagnóstico Termográfico](https://github.com/Eli-diane)
 Software de saúde de Residência Tecnológica sob filosofia *Security First*, com trilha de auditoria imutável ("vigia silencioso"), criptografia AES de dados sensíveis, integração com HashiCorp Vault e conformidade com LGPD e ANVISA.
 
-#### 3. [Studio Sound Lab (Engenharia de Áudio com IA)](https://github.com/Eli-diane/EstudioMusicalSoundLab)
+#### 3. [Studio Sound Lab (Engenharia de Áudio com IA)](https://github.com/Eli-diane)
 Aplicação Fullstack com Inteligência Artificial (modelo Demucs da Meta) e FFmpeg no backend para isolamento de stems e mixer multi-track interativo.
 
 #### 4. [Front-end Seguro (Consulta de Cães)](https://github.com/Eli-diane/Beautiful-form-project)
@@ -73,7 +73,7 @@ Aplicação web focada em segurança defensiva integrada a API externa, com prev
 ### 📊 Estatísticas e Contribuições
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eli-diane&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra.live/api?username=Eli-diane&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
