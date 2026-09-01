@@ -46,32 +46,17 @@
 
 Aqui estão os principais projetos onde apliquei conceitos avançados de Cloud, Desenvolvimento Backend e Segurança:
 
-#### 1. API de Pedidos — Magalu Cloud & Kubernetes (`projeto-cloud`)
-*API REST de micro e-commerce para gestão de pedidos, desenvolvida em Python com FastAPI, containerizada via Docker e implantada em cluster Kubernetes (K3s) na Magalu Cloud.*
+#### 1. [API de Pedidos — Magalu Cloud & Kubernetes (`projeto-cloud`)](https://github.com/Eli-diane/projeto-cloud)
+API REST em Python (FastAPI) para micro e-commerce, containerizada com Docker e implantada em cluster K3s na Magalu Cloud com pipeline CI/CD no GitHub Actions, Prometheus + Grafana e PostgreSQL (DBaaS).
 
-* **Infraestrutura & Deploy:** Provisionamento em VPC com sub-redes na Magalu Cloud e pipeline CI/CD automatizado via GitHub Actions.
-* **Resiliência & Banco Gerenciado:** Cluster configurado com 2 réplicas, liveness/readiness probes e conexão com PostgreSQL gerenciado (DBaaS).
-* **Observabilidade & Arquitetura:** Coleta de métricas via Prometheus + Grafana (Helm); documentação de arquitetura no modelo C2 e ADRs com Mermaid.
-* 🔗 **[Acessar Repositório do Projeto Cloud](https://github.com/Eli-diane/projeto-cloud)**
+#### 2. [SAD — Sistema de Apoio ao Diagnóstico Termográfico](https://github.com/Eli-diane)
+Software de saúde de Residência Tecnológica sob filosofia *Security First*, com trilha de auditoria imutável ("vigia silencioso"), criptografia AES de dados sensíveis, integração com HashiCorp Vault e conformidade com LGPD e ANVISA.
 
-#### 2. SAD — Sistema de Apoio ao Diagnóstico Termográfico (Residência Concluída)
-*Software de apoio ao diagnóstico médico desenvolvido durante a Residência Tecnológica, projetado sob a filosofia **Security First** e em conformidade regulatória para ambientes de saúde.*
+#### 3. [Studio Sound Lab (Engenharia de Áudio com IA)](https://github.com/Eli-diane)
+Aplicação Fullstack com Inteligência Artificial (modelo Demucs da Meta) e FFmpeg no backend para isolamento de stems e mixer multi-track interativo.
 
-* **Trilha de Auditoria (Audit Log):** Implementação de log de auditoria imutável no backend ("vigia silencioso") para rastreabilidade completa de acessos, modificações de dados sensíveis e auditoria de ações de usuários.
-* **Criptografia & Gestão de Segredos:** Armazenamento seguro de dados sensíveis e imagens termográficas com criptografia AES, integrado ao Hashicorp Vault para gestão centralizada de segredos.
-* **Comunicação Segura & IA:** Modelagem de comunicação segura com motor de IA (WEKA) para processamento de imagens e relatórios.
-* **Conformidade Regulatória:** Arquitetura orientada à LGPD e diretrizes da ANVISA (RDC 330/2019).
-* **Tech:** Python, Django, Hashicorp Vault, PostgreSQL, Security First Architecture.
-
-#### 3. Studio Sound Lab (Engenharia de Áudio com IA)
-*Aplicação web Fullstack desenvolvida para музыкан visualização e isolamento de áudio, utilizando Inteligência Artificial para separar instrumentos de arquivos MP3 (stems).*
-* **Integração com IA:** Implementação do modelo de Deep Learning Demucs (Meta) e orquestração do FFmpeg no backend.
-* **Frontend Interativo:** Mixer Multi-track com controle de volume independente, manipulação de velocidade (Time Stretch) sem distorção e sistema de Loop A-B.
-* **Tech:** Python, Django, JavaScript, FFmpeg, IA/Deep Learning.
-
-#### 4. Front-end Seguro (Consulta de Cães)
-*Aplicação web integrada com API externa, focada em segurança defensiva.*
-* **Destaques Técnicos:** Prevenção contra **XSS (Cross-Site Scripting)** via sanitização de inputs, configuração de **CSP (Content Security Policy)** robusta e gerenciamento seguro de chaves de API.
+#### 4. [Front-end Seguro (Consulta de Cães)](https://github.com/Eli-diane/Beautiful-form-project)
+Aplicação web focada em segurança defensiva integrada a API externa, com prevenção contra XSS via sanitização de inputs, CSP robusta e gestão segura de chaves.
 
 ---
 
@@ -85,18 +70,16 @@ Aqui estão os principais projetos onde apliquei conceitos avançados de Cloud, 
 🌸✨🌸✨🌸✨🌸✨🌸
 </div>
 
-### 🐍 Minhas contribuições
+### 📊 Estatísticas e Contribuições
+
 <div align="center">
-  <img src="https://github.com/eli-diane/eli-diane/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eli-diane&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
-<br>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/elidiane-santos" target="_blank">
-    <img src="https://img.shields.io/badge/Conecte%20se%20comigo-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge Pink" />
-  </a>
-  <a href="mailto:elidiane.ess@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFD4E3?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eli-diane/Eli-diane/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eli-diane/Eli-diane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eli-diane/Eli-diane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
