@@ -70,11 +70,11 @@ Aplicação web focada em segurança defensiva integrada a API externa, com prev
 🌸✨🌸✨🌸✨🌸✨🌸
 </div>
 
-### 📊 Estatísticas e Contribuições
+### 📊 Estatísticas e Resumo
 
-<div align="center">
-  <img src="https://github-readme-stats.anuraghazra.live/api?username=Eli-diane&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eli-diane&theme=tokyonight" />
+</p>
 
 <div align="center">
   <picture>
