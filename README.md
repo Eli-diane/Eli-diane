@@ -46,16 +46,20 @@
 
 Aqui estão os principais projetos onde apliquei conceitos avançados de Cloud, Desenvolvimento Backend e Segurança:
 
-#### 1. [API de Pedidos — Magalu Cloud & Kubernetes (`projeto-cloud`)](https://github.com/Eli-diane/projeto-cloud)
+#### 1. [Mini-SIEM SOC — Monitoramento e Segurança Defensiva](https://github.com/Eli-diane/mini-siem)
+
+Aplicação de monitoramento e auditoria de eventos de segurança desenvolvida em Django, focada em arquitetura defensiva, isolamento estrito de segredos e gestão rigorosa de dados sensíveis para prevenção de intrusões.
+
+#### 2. [API de Pedidos — Magalu Cloud & Kubernetes (`projeto-cloud`)](https://github.com/Eli-diane/projeto-cloud)
 API REST em Python (FastAPI) para micro e-commerce, containerizada com Docker e implantada em cluster K3s na Magalu Cloud com pipeline CI/CD no GitHub Actions, Prometheus + Grafana e PostgreSQL (DBaaS).
 
-#### 2. [SAD — Sistema de Apoio ao Diagnóstico Termográfico](https://github.com/Eli-diane)
+#### 3. [SAD — Sistema de Apoio ao Diagnóstico Termográfico](https://github.com/Eli-diane)
 Software de saúde de Residência Tecnológica sob filosofia *Security First*, com trilha de auditoria imutável ("vigia silencioso"), criptografia AES de dados sensíveis, integração com HashiCorp Vault e conformidade com LGPD e ANVISA.
 
-#### 3. [Studio Sound Lab (Engenharia de Áudio com IA)](https://github.com/Eli-diane)
+#### 4. [Studio Sound Lab (Engenharia de Áudio com IA)](https://github.com/Eli-diane)
 Aplicação Fullstack com Inteligência Artificial (modelo Demucs da Meta) e FFmpeg no backend para isolamento de stems e mixer multi-track interativo.
 
-#### 4. [Front-end Seguro (Consulta de Cães)](https://github.com/Eli-diane/Beautiful-form-project)
+#### 5. [Front-end Seguro (Consulta de Cães)](https://github.com/Eli-diane/Beautiful-form-project)
 Aplicação web focada em segurança defensiva integrada a API externa, com prevenção contra XSS via sanitização de inputs, CSP robusta e gestão segura de chaves.
 
 ---
@@ -65,6 +69,8 @@ Aplicação web focada em segurança defensiva integrada a API externa, com prev
 - [x] Cluster K3s com resiliência, auto-recuperação e observabilidade (Prometheus + Grafana)
 - [x] Arquitetura de software de saúde com criptografia, rastreabilidade e logs de auditoria (Residência SAD)
 - [x] Integração de modelos de Deep Learning em aplicações web reais
+- [x] Aplicação Django de monitoramento e auditoria com foco em arquitetura defensiva, isolamento de segredos e prevenção de intrusões.
+- [x] Mitigação de riscos de vazamento de informações críticas e tratamento de logs e cache em ambientes de desenvolvimento backend
 
 <div align="center">
 🌸✨🌸✨🌸✨🌸✨🌸
